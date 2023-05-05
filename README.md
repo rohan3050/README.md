@@ -1,3 +1,6 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rohan3050&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
 # 💫 About Me:
 I am a passionate programmer and currently I am working on ethical hacking.<br>
 
